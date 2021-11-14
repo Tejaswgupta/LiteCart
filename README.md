@@ -1,6 +1,5 @@
 # Kiosk
 
-Next Gen eCommerce app for kitabu
 Finish frontend and deploy on a closeed Internal Testing Track or Alpha as fits best android app on Google PlayStore
 
 ## Features
